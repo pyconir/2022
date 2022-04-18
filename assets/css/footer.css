@@ -402,7 +402,7 @@ footer,section {
 
 
 
-	 #snowflakeContainer {
+    #snowflakeContainer {
     position: absolute;
     left: 0px;
     top: 0px;
@@ -410,7 +410,7 @@ footer,section {
   }
 
   .snowflake {
-    position: fixed;
+    position: absolute;
     background-color: #CCC;
     user-select: none;
     z-index: 1000;
