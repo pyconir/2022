@@ -2,13 +2,13 @@
     <div class="container">
       <div class="alert">
 
+        {% if page.url contains "/en/" or page.url == "/" %} 
          <a href="./">PyCon Iran 2022 will be announced soon!</a>
+        {% endif %}
         
          {% if page.url contains "/fa/" %}
-
-         <a href="./">کنفرانس پایکان ایران ۱۴۰۱ به زودی اطلاع‌رسانی خواهد شد!</a>
-         
-        {% endif %}
+          <a href="./">!کنفرانس پایکان ایران ۱۴۰۱ به زودی اطلاع‌رسانی خواهد شد</a>
+         {% endif %}
         
       </div>
     </div>
