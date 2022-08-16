@@ -46,3 +46,5 @@
 
 ## مجوز
 این مرام نامه تحت مجوز Creative Commons Attribution 3.0 Unported است.
+&#x202b;
+
