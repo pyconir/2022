@@ -106,3 +106,12 @@
 <p>این مرام نامه تحت مجوز Creative Commons Attribution 3.0 Unported است.
 ‫</p>
         </div>
+
+
+
+#main-content h1:before {
+    padding-right: 0.3em;
+    margin-left: -0.9em;
+    content: "";
+}
+
