@@ -108,10 +108,10 @@
         </div>
 
 
-
+<style>
 #main-content h1:before {
     padding-right: 0.3em;
     margin-left: -0.9em;
     content: "";
 }
-
+ </style>
