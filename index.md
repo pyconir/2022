@@ -35,3 +35,28 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+
+<div class="sponsor-level">
+      <h2>Sponsors</h2>
+</div>
+
+<!--   Sponsorship Page -->
+
+<style>
+  
+.sponsor-level {
+  text-align: center;
+  width: 100%;
+}
+
+.sponsor-level h2{
+  font-size: 4rem;
+  padding: 1rem;
+  border-top: 2px solid #46182e;
+  border-bottom: 2px solid #46182e;
+}
+</style>
+    
