@@ -1,6 +1,6 @@
 ## PyCon Iran 2022
 * PyCon is back in 2022; Time and location will be announced soon.
-* \[August 22] The call for proposal is open and you can [submit your proposals](/2022/en/proposal) until October 22, don't miss it!
+* \[_August 22_] **The call for proposal is open and you can [submit your proposals](/2022/en/proposal) until October 22, don't miss it!**
 
 ## 2021 videos
 * PyCon Iran 2021 has come to a close, but you can watch all of the conference's talks, tutorials, and keynotes at [the PyCon Iran's YouTube channel](https://www.youtube.com/playlist?list=PLS_yN8E1mjBM9jJp511MeuE_acvi7Li2u). 
