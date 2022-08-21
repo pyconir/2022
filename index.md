@@ -78,3 +78,36 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 }
 </style>
     
+
+
+
+
+
+## Python for Everyone
+One of the reasons Python is the friendliest and one of the easiest to learn programming languages, is the way people have contributed ideas to improve it. It can be done via the Python Enhancement Proposals or PEP. The most well-known ones are PEP 20 –The Zen of Python– and PEP 8 – Style Guide for Python Code.
+
+Long-time Pythoneer Tim Peters penned down the BDFL’s \[Benevolent Dictator For Life\] guiding principles for Python’s design into 20 aphorisms, only 19 of which have been written down:
+
+* Beautiful is better than ugly.
+* Explicit is better than implicit.
+* Simple is better than complex.
+* Complex is better than complicated.
+* Flat is better than nested.
+* Sparse is better than dense.
+* Readability counts.
+* Special cases aren't special enough to break the rules.
+* Although practicality beats purity.
+* Errors should never pass silently.
+* Unless explicitly silenced.
+* In the face of ambiguity, refuse the temptation to guess.
+* There should be one-- and preferably only one --obvious way to do it.
+* Although that way may not be obvious at first unless you're Dutch.
+* Now is better than never.
+* Although never is often better than \*right\* now.
+* If the implementation is hard to explain, it's a bad idea.
+* If the implementation is easy to explain, it may be a good idea.
+* Namespaces are one honking great idea -- let's do more of those!
+
+\[To all new Python developers, after you execute your first "Hello World!" try this:   `>>> import this`\]
+
+
