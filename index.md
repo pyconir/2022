@@ -38,7 +38,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-
+<div style="border-bottom: 4px dotted #46182e;">
 <div style="text-align: center;">
       <p>
       Coming Soon!
@@ -57,6 +57,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 <div class="sponsor-level">
       <h2>Sponsors</h2>
       <p><a href="/2022/sponsors-apply/" class="btn" style="border-color: #389826; color: #FFF; background: #389826;">Apply to Sponsor!</a></p>
+</div>
 </div>
 
 
