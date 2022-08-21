@@ -15,6 +15,7 @@
   </div>
 
 
+{% if page.url contains "/en/" or page.url == "/" %} 
 
 <div class="u-rows-1 u-hbox u-items-center u-justify-space-between container-fluid u-center">
   <div class="u-title-medium u-hpad u-hbox u-items-center u-cols-4" style="margin:auto">
@@ -32,6 +33,30 @@
     <a href="/2022/fa{{ page.url | remove: "/en" }}"><strong>فارسی</strong></a>
 </div>
 </div>
+
+{% endif %}
+
+
+{% if page.url contains "/fa/" %}
+
+<div class="u-rows-1 u-hbox u-items-center u-justify-space-between container-fluid u-center">
+  <div class="u-title-medium u-hpad u-hbox u-items-center u-cols-4" style="margin:auto">
+    <a href="/2022/fa/" style="width: 200px; height: auto; text-decoration: none" title="PyCon Iran">پایکان ایران</a>
+    
+    <div class="u-hskip-half"></div>
+    <a href="/2022/" class="link-color-inherit" style="text-decoration: none;">
+        <sup class="u-title-large u-futura badge" style="font-size:22px; margin-top: 8px;">۱۴۰۱</sup>
+    </a>
+  </div>
+  <div class="u-futura u-uppercase previous-editions-menu" style="margin:auto">
+  :نسخه‌ی قبلی 
+    <a href="/2021/">۱۴۰۰</a>
+        
+    <a href="/2022/en{{ page.url | remove: "/fa" }}"><strong>En</strong></a>
+</div>
+</div>
+
+{% endif %}
 
 
 {% if page.url == "/" or page.url == "/en/" %}
