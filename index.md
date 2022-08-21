@@ -39,12 +39,12 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-<div>
+<div style="text-align: center;">
       <p>
       Coming Soon!
     </p>
       <a href="/2022/sponsors">
-          <img src="/2022/assets/images/sponsors-icon.svg" alt="">
+          <img src="/2022/assets/images/sponsors-icon.svg" width="200" height="200" alt="">
         </a>
         <h2>Sponsors</h2>
         <p>
@@ -56,8 +56,10 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 <div class="sponsor-level">
       <h2>Sponsors</h2>
-      <p><a href="/2019/sponsors/apply/" class="btn">Apply to Sponsor!</a></p>
+      <p><a href="/2022/sponsors-apply/" class="btn" style="border-color: #389826; color: #FFF; background: #389826;">Apply to Sponsor!</a></p>
 </div>
+
+
 
 <!--   Sponsorship Page -->
 
