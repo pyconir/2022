@@ -1,49 +1,26 @@
-## PyCon Iran 2022
-* PyCon is back in 2022; Time and location will be announced soon.
-* \[_August 22_] **The call for proposal is open and you can [submit your proposals](/2022/en/proposal) until October 22, don't miss it!**
+<div style="border-bottom: 4px dotted #46182e;">
+<h2 id="pycon-iran-2022" style="text-align: center;">PyCon Iran 2022</h2>
+<ul>
+  <li>PyCon is back in 2022; Time and location will be announced soon.</li>
+  <li>[<em>August 22</em>] <strong>The call for proposal is open and you can <a href="/2022/en/proposal">submit your proposals</a> until October 22, don’t miss it!</strong></li>
+</ul>
 
-## 2021 videos
-* PyCon Iran 2021 has come to a close, but you can watch all of the conference's talks, tutorials, and keynotes at [the PyCon Iran's YouTube channel](https://www.youtube.com/playlist?list=PLS_yN8E1mjBM9jJp511MeuE_acvi7Li2u). 
+</div>
 
 
-## Welcome to GitHub Pages
+<div class="u-vskip-3"></div>
 
-You can use the [editor on GitHub](https://github.com/pyconir/2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div style="border-bottom: 4px dotted #46182e;">
+<h2 id="2021-videos" style="text-align: center;">2021 Videos</h2>
+<ul>
+  <li>PyCon Iran 2021 has come to a close, but you can watch all of the conference’s talks, tutorials, and keynotes at <a href="https://www.youtube.com/playlist?list=PLS_yN8E1mjBM9jJp511MeuE_acvi7Li2u">the PyCon Iran’s YouTube channel</a>.</li>
+</ul>
 
-### Markdown
+</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pyconir/2022/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
+<div class="u-vskip-3"></div>
 
 
 <div style="border-bottom: 4px dotted #46182e;">
