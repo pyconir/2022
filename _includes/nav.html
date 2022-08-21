@@ -1,3 +1,5 @@
+{% if page.url contains "/en/" or page.url == "/" %} 
+
 <div class="container-fluid main-menu" style="border-bottom: 4px solid #333;">
   <div class="container">
     <nav class="navbar navbar-expand-md navbar-dark">
@@ -9,29 +11,31 @@
 
           
           <li class="nav-item">
-            <a class="nav-link" href="/2022/tickets/">Register</a>
+            <a class="nav-link" href="/2022/en/tickets.html">Register</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/2022/proposal/">Submit a Proposal</a>
+            <a class="nav-link" href="/2022/en/proposal.html">Submit a Proposal</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/2022/sponsor/">Sponsor</a>
+            <a class="nav-link" href="/2022/en/sponsors-apply.html">Sponsor</a>
           </li>
           <!-- <li class="nav-item">
             <a class="nav-link" href="/2022/upload/">Upload</a>
           </li> -->
           <li class="nav-item">
-            <a class="nav-link" href="/2022/coc.html">Code of Conduct</a>
+            <a class="nav-link" href="/2022/en/schedule.html">Schedule</a>
           </li>
           
  
           <li class="nav-item">
-            <a class="nav-link" href="/2022/proceedings/">Proceedings</a>
+            <a class="nav-link" href="/2022/en/coc.html">Code of Conduct</a>
           </li>
         </ul>
       </div>
     </nav>
   </div>
 </div>
+
+{% endif %}
 
 <div class="u-vskip-3"></div>
