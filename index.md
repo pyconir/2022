@@ -81,9 +81,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-
-
-## Python for Everyone
+<h2 id="python-for-everyone" style="text-align: center;">Python for Everyone</h2>
 One of the reasons Python is the friendliest and one of the easiest to learn programming languages, is the way people have contributed ideas to improve it. It can be done via the Python Enhancement Proposals or PEP. The most well-known ones are PEP 20 –The Zen of Python– and PEP 8 – Style Guide for Python Code.
 
 Long-time Pythoneer Tim Peters penned down the BDFL’s \[Benevolent Dictator For Life\] guiding principles for Python’s design into 20 aphorisms, only 19 of which have been written down:
@@ -108,6 +106,6 @@ Long-time Pythoneer Tim Peters penned down the BDFL’s \[Benevolent Dictator Fo
 * If the implementation is easy to explain, it may be a good idea.
 * Namespaces are one honking great idea -- let's do more of those!
 
-\[To all new Python developers, after you execute your first "Hello World!" try this:   `>>> import this`\]
+\[To all new Python developers, after you execute your first "Hello World!" try this:   ```>>> import this```\]
 
 
