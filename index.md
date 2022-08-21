@@ -80,6 +80,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 </style>
     
 
+<div class="u-vskip-3"></div>
 
 
 <h2 id="python-for-everyone" style="text-align: center;">Python for Everyone</h2>
