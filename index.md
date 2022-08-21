@@ -39,8 +39,24 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
+<div>
+      <p>
+      Coming Soon!
+    </p>
+      <a href="/2022/sponsors">
+          <img src="/2022/assets/images/sponsors-icon.svg" alt="">
+        </a>
+        <h2>Sponsors</h2>
+        <p>
+          The companies and organizations who sponsor PyCon Iran 
+          make the conference possible.
+        </p>
+</div>
+
+
 <div class="sponsor-level">
       <h2>Sponsors</h2>
+      <p><a href="/2019/sponsors/apply/" class="btn">Apply to Sponsor!</a></p>
 </div>
 
 <!--   Sponsorship Page -->
