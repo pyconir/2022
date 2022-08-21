@@ -37,6 +37,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
+~~~
 
 <div style="border-bottom: 4px dotted #46182e;">
 <div style="text-align: center;">
@@ -84,6 +85,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 <h2 id="python-for-everyone" style="text-align: center;">Python for Everyone</h2>
+~~~
+
 One of the reasons Python is the friendliest and one of the easiest to learn programming languages, is the way people have contributed ideas to improve it. It can be done via the Python Enhancement Proposals or PEP. The most well-known ones are PEP 20 –The Zen of Python– and PEP 8 – Style Guide for Python Code.
 
 Long-time Pythoneer Tim Peters penned down the BDFL’s \[Benevolent Dictator For Life\] guiding principles for Python’s design into 20 aphorisms, only 19 of which have been written down:
