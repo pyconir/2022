@@ -39,8 +39,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
  
  
  
- (Refer to homepage)[./]
- 
+ [Refer to homepage](./)
  
  <div class="u-vskip-3"></div>
  
