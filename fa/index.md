@@ -28,7 +28,7 @@
       <p>
       درحال تکمیل!
     </p>
-      <a href="/2022/fa/sponsors">
+      <a href="/2022/fa/sponsors.html">
           <img src="/2022/assets/images/sponsors-icon.svg" width="200" height="200" alt="">
         </a>
         <h2>حامیان</h2>
@@ -40,7 +40,7 @@
 
 <div class="sponsor-level">
       <h2>حامیان</h2>
-      <p><a href="/2022/fa/sponsors-apply/" class="btn" style="border-color: #389826; color: #FFF; background: #389826;">!حامی شوید</a></p>
+      <p><a href="/2022/fa/sponsors-apply.html" class="btn" style="border-color: #389826; color: #FFF; background: #389826;">!حامی شوید</a></p>
 </div>
 </div>
 
