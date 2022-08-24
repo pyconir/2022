@@ -32,7 +32,7 @@
           <img src="/2022/assets/images/sponsors-icon.svg" width="200" height="200" alt="">
         </a>
         <h2 style="margin-bottom: 1rem; font-family: 'futura-pt', Vazir;">حامیان</h2>
-        <p>
+        <p style="font-family: 'futura-pt', Vazir;">
           شرکت‌ها و سازمان‌هایی که کنفرانس پایکان ایران را حمایت می‌کنند، برگزاری کنفرانس را ممکن می‌سازند.
         </p>
 </div>
