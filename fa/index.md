@@ -2,7 +2,7 @@
   <div style="border-bottom: 4px dotted #46182e;">
 
           <h2 style="margin-bottom: 1rem; font-family: 'futura-pt', Vazir; text-align: center;" id="پایکان-ایران-۱۴۰۱">پایکان ایران ۱۴۰۱</h2>
-<ul>
+<ul style="padding-right: 2em;">
   <li>کنفرانس پایکان ایران امسال برگزار خواهد شد. زمان (احتمالا در آبان ماه) و مکان دقیق کنفرانس به زودی مشخص خواهد شد.</li>
   <li>[<em>۳۱ مرداد ماه</em>] <strong>فراخوان ارسال پیشنهادات باز است و شما می توانید تا ۳۰ مهر ماه <a href="/2022/fa/proposal">پیشنهادات خود را ارسال کنید</a>.</strong></li>
 </ul>
@@ -13,7 +13,7 @@
 
     <div style="border-bottom: 4px dotted #46182e;">
 <h2 style="margin-bottom: 1rem; font-family: 'futura-pt', Vazir; text-align: center;" id="ویدیوهای-۱۴۰۰">ویدیوهای ۱۴۰۰</h2>
-<ul>
+<ul style="padding-right: 2em;">
   <li>کنفرانس پایکان ایران ۱۴۰۰ به پایان رسیده است، اما تمامی ویدیوهای سخنرانی و کارگاه کنفرانس را می‌توانید از طریق <a href="https://www.youtube.com/playlist?list=PLS_yN8E1mjBM9jJp511MeuE_acvi7Li2u">پلی لیست آماده شده در کانال یوتیوب کنفرانس</a>، مشاهده کنید</li>
 </ul>
 </div>  
@@ -39,8 +39,8 @@
 
 
 <div class="sponsor-level">
-      <h2>حامیان</h2>
-      <p><a href="/2022/fa/sponsors-apply.html" class="btn" style="border-color: #389826; color: #FFF; background: #389826;">!حامی شوید</a></p>
+      <h2 style="font-family: 'futura-pt', Vazir;">حامیان</h2>
+      <p><a href="/2022/fa/sponsors-apply.html" class="btn" style="font-family: 'futura-pt', Vazir; border-color: #389826; color: #FFF; background: #389826;">!حامی شوید</a></p>
 </div>
 </div>
 
@@ -73,7 +73,7 @@
 
 <p>پایتون کار بسیار باسابقه، تیم پیترز اصول راهنمای دیکتاتور خیرخواه جاویدان برای طراحی پایتون را به صورت خلاصه در قالب ۲۰ جمله‌ی قصار بیان می‌کند، که تنها ۱۹ مورد از آنها نوشته شده است؛ بنابراین مکتب پایتون عبارتست از:</p>
 
-<ul>
+<ul style="padding-right: 2em;">
   <li>زیبا بهتر از زشت است.</li>
   <li>صریح بهتر از ضمنی است.</li>
   <li>ساده بهتر از پیچیده است.</li>
