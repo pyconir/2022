@@ -66,6 +66,13 @@
 <div class="u-vskip-3"></div>
 
 
+<style>
+    h1, h2, h3, div, p {
+          font-family: "futura-pt", Vazir;
+          } 
+</style>
+          
+
 
 <!-- 
 # فراخوان ارسال پروپزال 
