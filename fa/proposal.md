@@ -1,4 +1,4 @@
-<div style="direction: rtl; text-align: right; font-family: "futura-pt", Vazir;">
+<div style="direction: rtl; text-align: right; font-family: 'futura-pt', Vazir;">
           <h1 style="margin-bottom: 1rem; font-family: "futura-pt", Vazir;" id="فراخوان-ارسال-پروپزال">فراخوان ارسال پروپزال</h1>
 <p>پایکان ایران به دنبال سخنرانان با هر سطح تجربه و سابقه‌ای است تا در این کنفرانس مشارکت کنند! اگر از پایتون به صورت حرفه‌ای یا به عنوان یک سرگرمی استفاده می‌کنید و یا فقط علاقه‌مند به پایتون، برنامه‌نویسی و جوامع متن باز هستید، مایلیم در این کنفرانس از زبان شما بشنویم.</p>
 
